@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The Youtube channel and the webpage contain more than 3.000 free educational videos and hundreds of lessons in mathematics and computer science covering a wide range of subjects.
+Το κανάλι έχει ήδη 3.600 δωρεάν βίντεο, ευχαριστώ θερμά για την εμπιστοσύνη που μου δείχνετε και συνεχίζουμε!
 
 | Μάθημα | Videos | Slides |
 |---|---|---|
