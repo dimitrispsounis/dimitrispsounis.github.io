@@ -10,11 +10,11 @@ redirect_from:
 
 Το κανάλι έχει ήδη 3.600 δωρεάν βίντεο, ευχαριστώ θερμά για την εμπιστοσύνη που μου δείχνετε και συνεχίζουμε!
 
-| Μάθημα | Videos | Slides |
+| Μάθημα | Βίντεο | PDF |
 |---|---|---|
-| ΠΛΗ10 | [Videos](https://youtube.com/@psounis/search?query=ΠΛΗ10) | [Slides](https://github.com/psounis/notes/tree/master/plh10) |
-| ΠΛΗ20 | [Videos](https://youtube.com/@psounis/search?query=ΠΛΗ20) | [Slides](https://github.com/psounis/notes/tree/master/plh20) |
-| ΠΛΗ30 | [Videos](https://youtube.com/@psounis/search?query=ΠΛΗ30) | [Slides](https://github.com/psounis/notes/tree/master/plh30) |
+| [ΠΛΗ10](/teaching/2015-plh10) | [Βίντεο](https://youtube.com/@psounis/search?query=ΠΛΗ10) | [PDF](https://github.com/psounis/notes/tree/master/plh10) |
+| [ΠΛΗ20](/teaching/2015-plh20) | [Βίντεο](https://youtube.com/@psounis/search?query=ΠΛΗ20) | [PDF](https://github.com/psounis/notes/tree/master/plh20) |
+| [ΠΛΗ30](/teaching/2015-plh30) | [Βίντεο](https://youtube.com/@psounis/search?query=ΠΛΗ30) | [PDF](https://github.com/psounis/notes/tree/master/plh30) |
 
 FAQ #1: ΜΑΘΗΜΑΤΑ LIVE-ONLINE
 ---
