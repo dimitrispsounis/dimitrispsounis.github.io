@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &psounisekp
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -87,14 +87,14 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "psounis@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "psounis.ekpaideusi"
   foursquare       :
   github           : "psounis"
   google_plus      :
