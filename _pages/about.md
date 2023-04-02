@@ -12,9 +12,9 @@ redirect_from:
 
 | Μάθημα | Βίντεο | PDF |
 |---|---|---|
-| <a href="/_teaching/2015-plh10.md" target="_blank">ΠΛΗ10</a> | [Βίντεο](https://youtube.com/@psounis/search?query=ΠΛΗ10) | [PDF](https://github.com/psounis/notes/tree/master/plh10) |
-| [ΠΛΗ20](/teaching/2015-plh20) | [Βίντεο](https://youtube.com/@psounis/search?query=ΠΛΗ20) | [PDF](https://github.com/psounis/notes/tree/master/plh20) |
-| [ΠΛΗ30](/teaching/2015-plh30) | [Βίντεο](https://youtube.com/@psounis/search?query=ΠΛΗ30) | [PDF](https://github.com/psounis/notes/tree/master/plh30) |
+| <a href="/teaching/2015-plh10" target="_blank">ΠΛΗ10</a> | <a href="https://youtube.com/@psounis/search?query=ΠΛΗ10" target="_blank"><img src="/images/youtube20.png"></a> | <a href="https://github.com/psounis/notes/tree/master/plh10" target="_blank"><img src="/images/pdf20.png"></a> |
+| <a href="/teaching/2015-plh20" target="_blank">ΠΛΗ20</a> | <a href="https://youtube.com/@psounis/search?query=ΠΛΗ20" target="_blank"><img src="/images/youtube20.png"></a> | <a href="https://github.com/psounis/notes/tree/master/plh20" target="_blank"><img src="/images/pdf20.png"></a> |
+| <a href="/teaching/2015-plh30" target="_blank">ΠΛΗ30</a> | <a href="https://youtube.com/@psounis/search?query=ΠΛΗ30" target="_blank"><img src="/images/youtube20.png"></a> | <a href="https://github.com/psounis/notes/tree/master/plh30" target="_blank"><img src="/images/pdf20.png"></a> |
 
 FAQ #1: ΜΑΘΗΜΑΤΑ LIVE-ONLINE
 ---
